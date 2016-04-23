@@ -1,0 +1,12 @@
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\AutoSetParameters.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\AutoSetParameters.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\SqlServerDataAdapter.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\Standard_GB16780-2012.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\AutoMapper.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\SqlServerDataAdapter.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\Standard_GB16780-2012.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\obj\Debug\AutoSetParameters.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\obj\Debug\AutoSetParameters.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\obj\Debug\AutoSetParameters.csprojResolveAssemblyReference.cache
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\mDbDataAdaper.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\AutoSetParameters\bin\Debug\mDbDataAdaper.pdb

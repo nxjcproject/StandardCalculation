@@ -1,0 +1,9 @@
+C:\工作\编程\恒拓软件\组件\StandardCalculation\Standard_GB16780-2012\bin\Release\Standard_GB16780-2012.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\Standard_GB16780-2012\bin\Release\Standard_GB16780-2012.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\Standard_GB16780-2012\obj\Release\Standard_GB16780-2012.dll
+C:\工作\编程\恒拓软件\组件\StandardCalculation\Standard_GB16780-2012\obj\Release\Standard_GB16780-2012.pdb
+C:\Users\Administrator\Desktop\StandardCalculation\Standard_GB16780-2012\bin\Release\Standard_GB16780-2012.dll
+C:\Users\Administrator\Desktop\StandardCalculation\Standard_GB16780-2012\bin\Release\Standard_GB16780-2012.pdb
+C:\Users\Administrator\Desktop\StandardCalculation\Standard_GB16780-2012\obj\Release\Standard_GB16780-2012.dll
+C:\Users\Administrator\Desktop\StandardCalculation\Standard_GB16780-2012\obj\Release\Standard_GB16780-2012.pdb
+C:\工作\编程\恒拓软件\组件\StandardCalculation\Standard_GB16780-2012\obj\Release\Standard_GB16780-2012.csprojResolveAssemblyReference.cache

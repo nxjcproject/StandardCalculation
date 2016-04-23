@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationTestGB", "CalculationTestGB\CalculationTestGB.csproj", "{EDF156A6-87E0-4FD6-8EFE-492980DB3121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Standard_GB16780-2012", "Standard_GB16780-2012\Standard_GB16780-2012.csproj", "{3C051048-D4E8-4F82-93BF-C37967B62DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSetParameters", "AutoSetParameters\AutoSetParameters.csproj", "{F7EBDBFC-47DC-42B7-A9BF-B1968E212335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF156A6-87E0-4FD6-8EFE-492980DB3121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF156A6-87E0-4FD6-8EFE-492980DB3121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF156A6-87E0-4FD6-8EFE-492980DB3121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF156A6-87E0-4FD6-8EFE-492980DB3121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C051048-D4E8-4F82-93BF-C37967B62DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C051048-D4E8-4F82-93BF-C37967B62DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C051048-D4E8-4F82-93BF-C37967B62DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C051048-D4E8-4F82-93BF-C37967B62DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EBDBFC-47DC-42B7-A9BF-B1968E212335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EBDBFC-47DC-42B7-A9BF-B1968E212335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EBDBFC-47DC-42B7-A9BF-B1968E212335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EBDBFC-47DC-42B7-A9BF-B1968E212335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
